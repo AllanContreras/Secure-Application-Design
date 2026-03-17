@@ -94,4 +94,13 @@ sudo certbot --nginx -d 54-234-204-24.nip.io
 
 
 <img width="1585" height="549" alt="image" src="https://github.com/user-attachments/assets/fb4fc955-d5e9-4ba5-a548-064ba52ac2bc" />
+<img width="1448" height="687" alt="image" src="https://github.com/user-attachments/assets/6e4bd309-2b2c-4a99-904d-8706484e2153" />
+
+<img width="1245" height="609" alt="image" src="https://github.com/user-attachments/assets/480c82a3-015e-409f-ae25-1c3f208308b4" />
+
+
+- intregramos con
+  <img width="1415" height="675" alt="image" src="https://github.com/user-attachments/assets/6a8b1769-9702-4cd9-8e9d-7246eea5b468" />
+
+<img width="409" height="552" alt="image" src="https://github.com/user-attachments/assets/9e8182db-819a-430b-936b-f1de222d33c7" />
 
