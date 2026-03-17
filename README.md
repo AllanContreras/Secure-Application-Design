@@ -48,9 +48,27 @@ http://ec2-34-226-202-73.compute-1.amazonaws.com/
 
     <img width="411" height="537" alt="image" src="https://github.com/user-attachments/assets/fd84f568-aec3-464b-b36d-5d041eb5716d" />
 
+- 2
+- Let’s Encrypt
+  34-226-202-73.nip.io
+  sudo dnf install certbot python3-certbot-apache -y
+  <img width="1864" height="860" alt="image" src="https://github.com/user-attachments/assets/d579a167-5221-4bb4-9809-fecfac44d6b9" />
+
+<img width="1902" height="948" alt="image" src="https://github.com/user-attachments/assets/4233d8ad-1208-4b38-9209-7ff8391b543e" />
+sudo certbot --apache -d 34-226-202-73.nip.io
+
+<img width="1289" height="137" alt="image" src="https://github.com/user-attachments/assets/06706c72-1df6-48ed-8482-9ecea939a7dd" />
 
 
+sudo nano /etc/httpd/conf.d/mi-sitio.conf
+<img width="1214" height="481" alt="image" src="https://github.com/user-attachments/assets/539103c8-19d5-4a1a-a55c-c37bb90c9874" />
 
+<img width="1498" height="647" alt="image" src="https://github.com/user-attachments/assets/b883eb65-fbee-441c-b5e7-031fafa17781" />
+
+
+- https://34-226-202-73.nip.io
+  <img width="1232" height="558" alt="image" src="https://github.com/user-attachments/assets/87fcac84-83f4-476d-9eb5-eaf1a5c27a3a" />
+<img width="1511" height="759" alt="image" src="https://github.com/user-attachments/assets/ce0956cf-4d08-44f6-b428-60630f8e7a05" />
 
 
 
