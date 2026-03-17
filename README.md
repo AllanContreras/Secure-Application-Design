@@ -76,6 +76,7 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
   <img width="1909" height="888" alt="image" src="https://github.com/user-attachments/assets/084a542c-16d3-410c-849f-788ef8e646fc" />
   <img width="1724" height="344" alt="image" src="https://github.com/user-attachments/assets/bafed597-a07c-4d49-ba6d-64e123ad7c20" />
+  
 
 
 
