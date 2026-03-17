@@ -11,6 +11,23 @@ sudo systemctl start httpd
 sudo systemctl status httpd
 <img width="1576" height="949" alt="image" src="https://github.com/user-attachments/assets/9fc61713-5910-41bd-8a05-813d6628d24f" />
 <img width="1689" height="780" alt="image" src="https://github.com/user-attachments/assets/05fddf72-1c2a-4795-bba3-2f3910d63da4" />
+http://ec2-34-226-202-73.compute-1.amazonaws.com
+<img width="1919" height="800" alt="image" src="https://github.com/user-attachments/assets/d39cccc6-696e-426f-a0b9-ed98e0c4690d" />
+
+- sprint
+
+<img width="1917" height="704" alt="image" src="https://github.com/user-attachments/assets/f97efd5e-4101-4017-858a-9a5b3ccafa78" />
+
+sudo dnf install java-17-amazon-corretto -y
+
+<img width="1868" height="965" alt="image" src="https://github.com/user-attachments/assets/3d607711-c2ab-4bcf-8ac8-6b7e0f347bb7" />
+
+<img width="1388" height="181" alt="image" src="https://github.com/user-attachments/assets/82983a38-4063-4885-877b-ce6cfc0e140c" />
+
+
+
+
+
 
 
 
