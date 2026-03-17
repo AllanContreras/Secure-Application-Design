@@ -46,6 +46,10 @@ http://ec2-34-226-202-73.compute-1.amazonaws.com/
     <img width="1865" height="822" alt="image" src="https://github.com/user-attachments/assets/f6b80048-8c56-4ed8-b5f3-b75d5c6406c0" />
 
 
+    <img width="411" height="537" alt="image" src="https://github.com/user-attachments/assets/fd84f568-aec3-464b-b36d-5d041eb5716d" />
+
+
+
 
 
 
