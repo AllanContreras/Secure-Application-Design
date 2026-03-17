@@ -70,6 +70,14 @@ sudo nano /etc/httpd/conf.d/mi-sitio.conf
   <img width="1232" height="558" alt="image" src="https://github.com/user-attachments/assets/87fcac84-83f4-476d-9eb5-eaf1a5c27a3a" />
 <img width="1511" height="759" alt="image" src="https://github.com/user-attachments/assets/ce0956cf-4d08-44f6-b428-60630f8e7a05" />
 
+- sprint
+  sudo dnf install nginx -y
+sudo systemctl start nginx
+sudo systemctl enable nginx
+  <img width="1909" height="888" alt="image" src="https://github.com/user-attachments/assets/084a542c-16d3-410c-849f-788ef8e646fc" />
+  <img width="1724" height="344" alt="image" src="https://github.com/user-attachments/assets/bafed597-a07c-4d49-ba6d-64e123ad7c20" />
+
+
 
 
 
