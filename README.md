@@ -76,7 +76,15 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
   <img width="1909" height="888" alt="image" src="https://github.com/user-attachments/assets/084a542c-16d3-410c-849f-788ef8e646fc" />
   <img width="1724" height="344" alt="image" src="https://github.com/user-attachments/assets/bafed597-a07c-4d49-ba6d-64e123ad7c20" />
-  
+sudo dnf install certbot python3-certbot-nginx -y
+
+
+  <img width="1916" height="926" alt="image" src="https://github.com/user-attachments/assets/3a8df26f-a2c1-4eb8-a9ee-bd1e0a4d1f67" />
+certbot --version
+certbot 2.6.0
+
+<img width="975" height="158" alt="image" src="https://github.com/user-attachments/assets/80423bf2-119d-4f65-a93a-360ce1247109" />
+
 
 
 
