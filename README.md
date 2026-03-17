@@ -24,6 +24,16 @@ sudo dnf install java-17-amazon-corretto -y
 
 <img width="1388" height="181" alt="image" src="https://github.com/user-attachments/assets/82983a38-4063-4885-877b-ce6cfc0e140c" />
 
+<img width="762" height="100" alt="image" src="https://github.com/user-attachments/assets/db4e2e18-a3a4-4c17-afb5-b311af818e93" />
+nano App.java
+<img width="1614" height="943" alt="image" src="https://github.com/user-attachments/assets/2ef7d723-3ad1-49c8-a48c-54735723d599" />
+<img width="882" height="79" alt="image" src="https://github.com/user-attachments/assets/3efdf97a-b0f4-4612-aff2-745ef9c61d62" />
+<img width="735" height="156" alt="image" src="https://github.com/user-attachments/assets/a59d42eb-cc1f-40b6-be96-9d788c962959" />
+http://ec2-54-234-204-24.compute-1.amazonaws.com:8080/hello
+<img width="1385" height="595" alt="image" src="https://github.com/user-attachments/assets/24a0db22-b253-4928-a299-a0cae603bd04" />
+
+
+
 
 
 
