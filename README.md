@@ -87,9 +87,11 @@ certbot 2.6.0
 
 
 
+sudo certbot --nginx -d 54-234-204-24.nip.io
+
+<img width="1520" height="950" alt="image" src="https://github.com/user-attachments/assets/5827e7ee-a910-4db4-819f-6f3d01d54384" />
 
 
 
-
-
+<img width="1585" height="549" alt="image" src="https://github.com/user-attachments/assets/fb4fc955-d5e9-4ba5-a548-064ba52ac2bc" />
 
